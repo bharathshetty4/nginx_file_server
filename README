@@ -1,0 +1,3 @@
+the files can be downloaded http://localhost:8080/downloads/<file_name>
+
+ref: https://www.pluralsight.com/guides/download-large-files-from-remote-servers-using-nginx-docker
